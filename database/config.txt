@@ -1,0 +1,8 @@
+nombre_liga=Torneo Universitario
+pts_victoria=3
+pts_empate=1
+pts_derrota=0
+equipo=Pumas
+equipo=Aguilas
+equipo=Leones
+equipo=Toros
